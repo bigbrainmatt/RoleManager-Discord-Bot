@@ -24,9 +24,6 @@ No more permission headaches—just smooth, self-service role management at your
 
 [**➕ Add RoleManager to your server**](https://discord.com/discovery/applications/1353772539049935001)
 
-Need help or want to give feedback?  
-Join our community: [https://discord.gg/XuYAUpdrFN](https://discord.gg/XuYAUpdrFN)
-
 ---
 
 ## 🛠️ Tech Stack
