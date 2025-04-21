@@ -32,11 +32,5 @@ No more permission headaches—just smooth, self-service role management at your
 
 ---
 
-## 👥 Support
-For support, feature requests, or to hang out with other RoleManager users, join the official server:  
-[https://discord.gg/XuYAUpdrFN](https://discord.gg/XuYAUpdrFN)
-
----
-
 ## 📜 License
 MIT License
